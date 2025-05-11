@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Submit Grades</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/styles/instructor-dashboard.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      <img src="/assets/logo.png" alt="Logo" class="logo-img">
+    </div>    
+    <div class="user-info">
+      <span id="welcomeUser">Submit Grades</span>
+      <button onclick="logout()">Logout</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <ul>
+        <li><a href="/pages/instructor-dashboard.html">My Classes</a></li>
+        <li><a href="/pages/instructor-submit.html">Submit Grades</a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <h2>Submit Grades</h2>
+      <div id="classContainer" class="class-grid"></div>
+    </main>
+  </div>
+
+  <script src="/scripts/instructor-submit.js"></script>
+</body>
+</html>

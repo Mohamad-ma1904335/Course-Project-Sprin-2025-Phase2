@@ -1,0 +1,9080 @@
+[
+  {
+    "studentId": "s622",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s233",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s502",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s358",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s374",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s408",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s248",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s492",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s369",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s362",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s193",
+    "courseId": "CS100",
+    "classId": "CL001",
+    "status": "pending"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS100",
+    "classId": "CL002",
+    "status": "approved"
+  },
+  {
+    "studentId": "s373",
+    "courseId": "CS100",
+    "classId": "CL002",
+    "status": "approved"
+  },
+  {
+    "studentId": "s266",
+    "courseId": "CS100",
+    "classId": "CL002",
+    "status": "approved"
+  },
+  {
+    "studentId": "s392",
+    "courseId": "CS100",
+    "classId": "CL002",
+    "status": "approved"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS100",
+    "classId": "CL002",
+    "status": "approved"
+  },
+  {
+    "studentId": "s350",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s421",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s333",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s546",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s246",
+    "courseId": "CS101",
+    "classId": "CL003",
+    "status": "pending"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s125",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s163",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s309",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s327",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s191",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s477",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s215",
+    "courseId": "CS101",
+    "classId": "CL004",
+    "status": "pending"
+  },
+  {
+    "studentId": "s232",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s405",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s191",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s416",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s605",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s321",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s428",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s426",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s587",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s449",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s155",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s491",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s322",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s554",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s595",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s227",
+    "courseId": "CS102",
+    "classId": "CL005",
+    "status": "pending"
+  },
+  {
+    "studentId": "s223",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s445",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s606",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s297",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s458",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s358",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s242",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s254",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s512",
+    "courseId": "CS102",
+    "classId": "CL006",
+    "status": "approved"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s160",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s599",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s418",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s176",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s571",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s452",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s359",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s447",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s212",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s188",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s293",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS103",
+    "classId": "CL007",
+    "status": "pending"
+  },
+  {
+    "studentId": "s270",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s153",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s254",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s463",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s267",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s336",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s456",
+    "courseId": "CS103",
+    "classId": "CL008",
+    "status": "approved"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s608",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s475",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s593",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s614",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s195",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s490",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s205",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s533",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s575",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s421",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s321",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s323",
+    "courseId": "CS104",
+    "classId": "CL009",
+    "status": "pending"
+  },
+  {
+    "studentId": "s477",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s262",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s207",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s396",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s240",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s185",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s475",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s427",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s168",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s253",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s404",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s578",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s318",
+    "courseId": "CS104",
+    "classId": "CL010",
+    "status": "pending"
+  },
+  {
+    "studentId": "s618",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s315",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s419",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s544",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s453",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s128",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s528",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s557",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s151",
+    "courseId": "CS105",
+    "classId": "CL011",
+    "status": "approved"
+  },
+  {
+    "studentId": "s357",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s365",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s230",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s355",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s327",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s538",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s182",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s512",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s333",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s379",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s256",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s312",
+    "courseId": "CS105",
+    "classId": "CL012",
+    "status": "pending"
+  },
+  {
+    "studentId": "s434",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s621",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s545",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s433",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s250",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s361",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s416",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s198",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s614",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s247",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s501",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s426",
+    "courseId": "CS106",
+    "classId": "CL013",
+    "status": "pending"
+  },
+  {
+    "studentId": "s379",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s317",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s516",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s178",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s569",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s312",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s238",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s400",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s491",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s435",
+    "courseId": "CS106",
+    "classId": "CL014",
+    "status": "pending"
+  },
+  {
+    "studentId": "s323",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s617",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s199",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS107",
+    "classId": "CL015",
+    "status": "approved"
+  },
+  {
+    "studentId": "s154",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s413",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s578",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s332",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s418",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s439",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s125",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s242",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s473",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s576",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s524",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s427",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s362",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s202",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s185",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s583",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s328",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s303",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s426",
+    "courseId": "CS107",
+    "classId": "CL016",
+    "status": "pending"
+  },
+  {
+    "studentId": "s201",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s168",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s598",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s159",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s227",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s512",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s523",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s177",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s326",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s601",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s579",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s152",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s435",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s485",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s536",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s539",
+    "courseId": "CS108",
+    "classId": "CL017",
+    "status": "approved"
+  },
+  {
+    "studentId": "s506",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s331",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s340",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s315",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s417",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s515",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s358",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s593",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s210",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s136",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s443",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s585",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s550",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS108",
+    "classId": "CL018",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s583",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s436",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s452",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s321",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s329",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s150",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s533",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s282",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s418",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s224",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s446",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s470",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s590",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s307",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s408",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s529",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s310",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s144",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS109",
+    "classId": "CL019",
+    "status": "pending"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s236",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s620",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s467",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s138",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s548",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s300",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s535",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s413",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s139",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s144",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s399",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s532",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s597",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s599",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s491",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s158",
+    "courseId": "CS109",
+    "classId": "CL020",
+    "status": "approved"
+  },
+  {
+    "studentId": "s461",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s391",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s224",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s276",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s229",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s550",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s322",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s164",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s123",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s140",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s355",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s611",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s366",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s277",
+    "courseId": "CS110",
+    "classId": "CL021",
+    "status": "pending"
+  },
+  {
+    "studentId": "s522",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s399",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s459",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s454",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s397",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s558",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s512",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s588",
+    "courseId": "CS110",
+    "classId": "CL022",
+    "status": "approved"
+  },
+  {
+    "studentId": "s543",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s344",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s436",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s281",
+    "courseId": "CS111",
+    "classId": "CL023",
+    "status": "approved"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s402",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s151",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s300",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s581",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s202",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s399",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s386",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s309",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s590",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s611",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s420",
+    "courseId": "CS111",
+    "classId": "CL024",
+    "status": "approved"
+  },
+  {
+    "studentId": "s519",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s286",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s576",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s341",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s285",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s123",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s329",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s391",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s610",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s534",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s412",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s261",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s203",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s347",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s497",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s207",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s210",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s276",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s399",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s421",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s587",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s375",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s389",
+    "courseId": "CS112",
+    "classId": "CL025",
+    "status": "pending"
+  },
+  {
+    "studentId": "s422",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s309",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s131",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s302",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s370",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s489",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s471",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s532",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s494",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s305",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s172",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s501",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s460",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s192",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s485",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s399",
+    "courseId": "CS112",
+    "classId": "CL026",
+    "status": "approved"
+  },
+  {
+    "studentId": "s589",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s551",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s203",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s497",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s161",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s375",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s473",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s467",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s487",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s190",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s556",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s235",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s612",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s439",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s159",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s164",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s392",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s139",
+    "courseId": "CS113",
+    "classId": "CL027",
+    "status": "pending"
+  },
+  {
+    "studentId": "s356",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s494",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s447",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s192",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s369",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s128",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s598",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s370",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s617",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s200",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s460",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s173",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s536",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s487",
+    "courseId": "CS113",
+    "classId": "CL028",
+    "status": "approved"
+  },
+  {
+    "studentId": "s327",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s143",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s269",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s232",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s375",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s580",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s310",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s145",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s160",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s557",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s176",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s154",
+    "courseId": "CS114",
+    "classId": "CL029",
+    "status": "pending"
+  },
+  {
+    "studentId": "s524",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s355",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s330",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s438",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s137",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s458",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s373",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s253",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s412",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s427",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s600",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s152",
+    "courseId": "CS114",
+    "classId": "CL030",
+    "status": "approved"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s172",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s562",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s304",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s255",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s290",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s163",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s534",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s590",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s485",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s484",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s356",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s229",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s168",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s387",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s583",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s551",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s149",
+    "courseId": "CS115",
+    "classId": "CL031",
+    "status": "pending"
+  },
+  {
+    "studentId": "s496",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s271",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s490",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s350",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s335",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s371",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s416",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s252",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s166",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s438",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s586",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s618",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s374",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s592",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s595",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s173",
+    "courseId": "CS115",
+    "classId": "CL032",
+    "status": "approved"
+  },
+  {
+    "studentId": "s591",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s361",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s176",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s426",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s285",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s282",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s324",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s567",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s437",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s478",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s438",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s434",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s125",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s148",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s284",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s422",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s608",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s616",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s448",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s476",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s341",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s534",
+    "courseId": "CS116",
+    "classId": "CL033",
+    "status": "pending"
+  },
+  {
+    "studentId": "s613",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s575",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s499",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s512",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s548",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s372",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s363",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s335",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s385",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s139",
+    "courseId": "CS116",
+    "classId": "CL034",
+    "status": "approved"
+  },
+  {
+    "studentId": "s255",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s467",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s437",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s424",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s211",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s280",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s539",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s345",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s218",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s361",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s216",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s579",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s440",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s199",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s329",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s146",
+    "courseId": "CS117",
+    "classId": "CL035",
+    "status": "pending"
+  },
+  {
+    "studentId": "s293",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s605",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s614",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s356",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s196",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s369",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s201",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s533",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s590",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s321",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s529",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s498",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s394",
+    "courseId": "CS117",
+    "classId": "CL036",
+    "status": "approved"
+  },
+  {
+    "studentId": "s234",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s150",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s135",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s268",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s251",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s606",
+    "courseId": "CS118",
+    "classId": "CL037",
+    "status": "approved"
+  },
+  {
+    "studentId": "s265",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s447",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s143",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s597",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s367",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s231",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s568",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s138",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s482",
+    "courseId": "CS118",
+    "classId": "CL038",
+    "status": "approved"
+  },
+  {
+    "studentId": "s335",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s290",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s439",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s560",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s620",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s234",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s331",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s517",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s211",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s136",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s279",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s360",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s411",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s220",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s255",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s378",
+    "courseId": "CS119",
+    "classId": "CL039",
+    "status": "approved"
+  },
+  {
+    "studentId": "s494",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s530",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s400",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s391",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s579",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s453",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s291",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s524",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s154",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s321",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s312",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s165",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s239",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s247",
+    "courseId": "CS119",
+    "classId": "CL040",
+    "status": "pending"
+  },
+  {
+    "studentId": "s480",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s516",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s423",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s320",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s325",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s488",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s361",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s332",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s387",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s216",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s212",
+    "courseId": "CS120",
+    "classId": "CL041",
+    "status": "pending"
+  },
+  {
+    "studentId": "s373",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s257",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s270",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s314",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s176",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s504",
+    "courseId": "CS120",
+    "classId": "CL042",
+    "status": "approved"
+  },
+  {
+    "studentId": "s354",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s405",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s461",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s292",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS121",
+    "classId": "CL043",
+    "status": "approved"
+  },
+  {
+    "studentId": "s252",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s128",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s559",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s230",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s269",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s560",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s173",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s338",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s482",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s301",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s572",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s446",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s197",
+    "courseId": "CS121",
+    "classId": "CL044",
+    "status": "pending"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s555",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s543",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s401",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s484",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s269",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s528",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s445",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s158",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s540",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s564",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s503",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s386",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS122",
+    "classId": "CL045",
+    "status": "approved"
+  },
+  {
+    "studentId": "s526",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s524",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s515",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s448",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s277",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s310",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s540",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s423",
+    "courseId": "CS122",
+    "classId": "CL046",
+    "status": "pending"
+  },
+  {
+    "studentId": "s179",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s320",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s621",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s584",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s338",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s286",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s432",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s451",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s433",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s308",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s470",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s293",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s457",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s155",
+    "courseId": "CS123",
+    "classId": "CL047",
+    "status": "approved"
+  },
+  {
+    "studentId": "s443",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s240",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s511",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s328",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s489",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s142",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s478",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s314",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s229",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s306",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s410",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s247",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s497",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s201",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s413",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s204",
+    "courseId": "CS123",
+    "classId": "CL048",
+    "status": "pending"
+  },
+  {
+    "studentId": "s223",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s564",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s397",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s416",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s542",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s348",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s395",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s350",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s387",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s357",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s390",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s377",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s479",
+    "courseId": "CS124",
+    "classId": "CL049",
+    "status": "approved"
+  },
+  {
+    "studentId": "s288",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s231",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s163",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s196",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s319",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s290",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s412",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s169",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s436",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s484",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s266",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s390",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s234",
+    "courseId": "CS124",
+    "classId": "CL050",
+    "status": "pending"
+  },
+  {
+    "studentId": "s185",
+    "courseId": "CS125",
+    "classId": "CL051",
+    "status": "approved"
+  },
+  {
+    "studentId": "s249",
+    "courseId": "CS125",
+    "classId": "CL051",
+    "status": "approved"
+  },
+  {
+    "studentId": "s618",
+    "courseId": "CS125",
+    "classId": "CL051",
+    "status": "approved"
+  },
+  {
+    "studentId": "s231",
+    "courseId": "CS125",
+    "classId": "CL051",
+    "status": "approved"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS125",
+    "classId": "CL051",
+    "status": "approved"
+  },
+  {
+    "studentId": "s469",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s500",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s279",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s154",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s304",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s597",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s330",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s589",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s428",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s364",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s405",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s454",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s261",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s338",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s129",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s444",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s595",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s476",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s457",
+    "courseId": "CS125",
+    "classId": "CL052",
+    "status": "pending"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s446",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s460",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s420",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s622",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s330",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s304",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s453",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s303",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s193",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s367",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s318",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s204",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s310",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s171",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s509",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s501",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s380",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s606",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s194",
+    "courseId": "CS126",
+    "classId": "CL053",
+    "status": "approved"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s378",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s381",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s299",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s148",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s144",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s281",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s171",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s403",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s234",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s165",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s155",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s292",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s285",
+    "courseId": "CS126",
+    "classId": "CL054",
+    "status": "approved"
+  },
+  {
+    "studentId": "s175",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s281",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s207",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s400",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s451",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s577",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s449",
+    "courseId": "CS127",
+    "classId": "CL055",
+    "status": "pending"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s421",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s195",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s171",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s145",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s332",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s407",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s232",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s143",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s239",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s169",
+    "courseId": "CS127",
+    "classId": "CL056",
+    "status": "approved"
+  },
+  {
+    "studentId": "s218",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s610",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s483",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s516",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s324",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s272",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s500",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s297",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s606",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s611",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s582",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s226",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s404",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s479",
+    "courseId": "CS128",
+    "classId": "CL057",
+    "status": "pending"
+  },
+  {
+    "studentId": "s146",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s467",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s559",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s234",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s207",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s392",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s282",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s433",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s159",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s421",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s123",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s601",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s508",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s313",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s341",
+    "courseId": "CS128",
+    "classId": "CL058",
+    "status": "approved"
+  },
+  {
+    "studentId": "s191",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s454",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s152",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s138",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s621",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s585",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s346",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s556",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s233",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s589",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s277",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s548",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s253",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s493",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s151",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s598",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s147",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s505",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s194",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s534",
+    "courseId": "CS129",
+    "classId": "CL059",
+    "status": "approved"
+  },
+  {
+    "studentId": "s292",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s328",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s266",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s347",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s413",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s551",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s349",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s188",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s496",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s609",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s379",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s543",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s197",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s415",
+    "courseId": "CS129",
+    "classId": "CL060",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s576",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s344",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s375",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s125",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s588",
+    "courseId": "CS130",
+    "classId": "CL061",
+    "status": "pending"
+  },
+  {
+    "studentId": "s543",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s622",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s461",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s246",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s572",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s437",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s363",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s289",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s501",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s365",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s507",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s137",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s165",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s209",
+    "courseId": "CS130",
+    "classId": "CL062",
+    "status": "pending"
+  },
+  {
+    "studentId": "s195",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s182",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s402",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s508",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s278",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s383",
+    "courseId": "CS131",
+    "classId": "CL063",
+    "status": "approved"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s164",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s393",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s437",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s586",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s298",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s531",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s177",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS131",
+    "classId": "CL064",
+    "status": "approved"
+  },
+  {
+    "studentId": "s364",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s491",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s622",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s568",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s139",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s571",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s312",
+    "courseId": "CS132",
+    "classId": "CL065",
+    "status": "pending"
+  },
+  {
+    "studentId": "s554",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s451",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s428",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s602",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s615",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s301",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s135",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s392",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s274",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s534",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s188",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s610",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s305",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s164",
+    "courseId": "CS132",
+    "classId": "CL066",
+    "status": "approved"
+  },
+  {
+    "studentId": "s130",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s223",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s580",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s238",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s556",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s579",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s459",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s404",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s145",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s123",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s612",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s146",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s593",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s133",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s272",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s555",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s429",
+    "courseId": "CS133",
+    "classId": "CL067",
+    "status": "pending"
+  },
+  {
+    "studentId": "s508",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s146",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s166",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s553",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s242",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s184",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s134",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s294",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s482",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s562",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s302",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s463",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s256",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s361",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s601",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s376",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s354",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS133",
+    "classId": "CL068",
+    "status": "pending"
+  },
+  {
+    "studentId": "s427",
+    "courseId": "CS134",
+    "classId": "CL069",
+    "status": "pending"
+  },
+  {
+    "studentId": "s381",
+    "courseId": "CS134",
+    "classId": "CL069",
+    "status": "pending"
+  },
+  {
+    "studentId": "s343",
+    "courseId": "CS134",
+    "classId": "CL069",
+    "status": "pending"
+  },
+  {
+    "studentId": "s449",
+    "courseId": "CS134",
+    "classId": "CL069",
+    "status": "pending"
+  },
+  {
+    "studentId": "s529",
+    "courseId": "CS134",
+    "classId": "CL069",
+    "status": "pending"
+  },
+  {
+    "studentId": "s320",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s423",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s175",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s577",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s401",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s186",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s428",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s207",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s600",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s314",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s232",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s405",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s490",
+    "courseId": "CS134",
+    "classId": "CL070",
+    "status": "pending"
+  },
+  {
+    "studentId": "s373",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s351",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s608",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s274",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s318",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s218",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s415",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s323",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s546",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s521",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s410",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s595",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s495",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s159",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s333",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s284",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s585",
+    "courseId": "CS135",
+    "classId": "CL071",
+    "status": "approved"
+  },
+  {
+    "studentId": "s173",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s603",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s387",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s231",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s564",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s279",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s342",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s374",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s487",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s403",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s299",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s156",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s551",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s132",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s574",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s138",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s591",
+    "courseId": "CS135",
+    "classId": "CL072",
+    "status": "pending"
+  },
+  {
+    "studentId": "s402",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s510",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s141",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s298",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s129",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s275",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s366",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s460",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s240",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s569",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s595",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s174",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s309",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s248",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s197",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s582",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s344",
+    "courseId": "CS136",
+    "classId": "CL073",
+    "status": "approved"
+  },
+  {
+    "studentId": "s239",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s422",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s263",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s539",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s280",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s335",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s577",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s464",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s171",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s371",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS136",
+    "classId": "CL074",
+    "status": "pending"
+  },
+  {
+    "studentId": "s407",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s499",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s185",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s306",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s320",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s182",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s497",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s516",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s559",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s279",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s447",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s572",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s123",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s404",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s577",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s363",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s211",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s400",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s445",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s271",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s511",
+    "courseId": "CS137",
+    "classId": "CL075",
+    "status": "approved"
+  },
+  {
+    "studentId": "s135",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s186",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s349",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s475",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s406",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s169",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s211",
+    "courseId": "CS137",
+    "classId": "CL076",
+    "status": "approved"
+  },
+  {
+    "studentId": "s146",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s162",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s545",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s195",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s582",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS138",
+    "classId": "CL077",
+    "status": "approved"
+  },
+  {
+    "studentId": "s487",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s559",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s620",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s550",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s461",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s509",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s240",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s268",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s423",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s504",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s437",
+    "courseId": "CS138",
+    "classId": "CL078",
+    "status": "pending"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s480",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s359",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s212",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s148",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s304",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s127",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s334",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s582",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s620",
+    "courseId": "CS139",
+    "classId": "CL079",
+    "status": "pending"
+  },
+  {
+    "studentId": "s124",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s363",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s557",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s565",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s498",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s409",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s457",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s287",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s524",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s359",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s460",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s550",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s153",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s213",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s486",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s241",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s131",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s331",
+    "courseId": "CS139",
+    "classId": "CL080",
+    "status": "pending"
+  },
+  {
+    "studentId": "s292",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s260",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s343",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s305",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s462",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s619",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s252",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s141",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s420",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s414",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s358",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s593",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s237",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s507",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s528",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s255",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s209",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s186",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s230",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s606",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s298",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s251",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s427",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS140",
+    "classId": "CL081",
+    "status": "pending"
+  },
+  {
+    "studentId": "s611",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s443",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s291",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s189",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s464",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s531",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s364",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s473",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s607",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s372",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s467",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS140",
+    "classId": "CL082",
+    "status": "pending"
+  },
+  {
+    "studentId": "s482",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s397",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s568",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s210",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS141",
+    "classId": "CL083",
+    "status": "approved"
+  },
+  {
+    "studentId": "s575",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s539",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s330",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s244",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s141",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s444",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s309",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s173",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s458",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s210",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s163",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s420",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s547",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s601",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s387",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s262",
+    "courseId": "CS141",
+    "classId": "CL084",
+    "status": "approved"
+  },
+  {
+    "studentId": "s576",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s497",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s339",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s514",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s307",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s149",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s301",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s500",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s564",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s573",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s501",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s527",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s338",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s569",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s240",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s371",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s128",
+    "courseId": "CS142",
+    "classId": "CL085",
+    "status": "pending"
+  },
+  {
+    "studentId": "s258",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s483",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s410",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s264",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s220",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s206",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s578",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s254",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s470",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s330",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s266",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s366",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s468",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s186",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s215",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s520",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s265",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s156",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s133",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s431",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s152",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s327",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s433",
+    "courseId": "CS142",
+    "classId": "CL086",
+    "status": "pending"
+  },
+  {
+    "studentId": "s326",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s293",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s271",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s196",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s197",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s335",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s205",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s535",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s347",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s359",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s340",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s438",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s457",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s517",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s450",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s368",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s373",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s571",
+    "courseId": "CS143",
+    "classId": "CL087",
+    "status": "approved"
+  },
+  {
+    "studentId": "s364",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s201",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s591",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s291",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s214",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s499",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s236",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s210",
+    "courseId": "CS143",
+    "classId": "CL088",
+    "status": "pending"
+  },
+  {
+    "studentId": "s576",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s507",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s604",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s223",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s449",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s505",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s393",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s261",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s357",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s313",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s592",
+    "courseId": "CS144",
+    "classId": "CL089",
+    "status": "approved"
+  },
+  {
+    "studentId": "s312",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s469",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s352",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s370",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s413",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s441",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s600",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s167",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s594",
+    "courseId": "CS144",
+    "classId": "CL090",
+    "status": "approved"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s416",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s371",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s465",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s286",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s270",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s202",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s236",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s306",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s223",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s265",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s419",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s430",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s303",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s145",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s566",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s475",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s347",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s451",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s461",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s474",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s326",
+    "courseId": "CS145",
+    "classId": "CL091",
+    "status": "approved"
+  },
+  {
+    "studentId": "s371",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s616",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s519",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s362",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s365",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s473",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s622",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s193",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s238",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s508",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s380",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s443",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s448",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s394",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s139",
+    "courseId": "CS145",
+    "classId": "CL092",
+    "status": "pending"
+  },
+  {
+    "studentId": "s194",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s463",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s560",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s334",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s307",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s616",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s586",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s580",
+    "courseId": "CS146",
+    "classId": "CL093",
+    "status": "pending"
+  },
+  {
+    "studentId": "s601",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s156",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s518",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s133",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s193",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s282",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s444",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s199",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s160",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s605",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s596",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s228",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s306",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s478",
+    "courseId": "CS146",
+    "classId": "CL094",
+    "status": "approved"
+  },
+  {
+    "studentId": "s236",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s164",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s559",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s219",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s291",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s285",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s592",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s455",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s174",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s180",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s170",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s609",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s533",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s353",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s397",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s128",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s555",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s568",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s563",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s307",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s169",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s239",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s313",
+    "courseId": "CS147",
+    "classId": "CL095",
+    "status": "pending"
+  },
+  {
+    "studentId": "s265",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s592",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s513",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s172",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s235",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s597",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s255",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s456",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s338",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s388",
+    "courseId": "CS147",
+    "classId": "CL096",
+    "status": "pending"
+  },
+  {
+    "studentId": "s409",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s169",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s221",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s615",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s469",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s316",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s254",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s516",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s383",
+    "courseId": "CS148",
+    "classId": "CL097",
+    "status": "pending"
+  },
+  {
+    "studentId": "s442",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s466",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s444",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s393",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s174",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s382",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s374",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s317",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s229",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s614",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s457",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s492",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s141",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s203",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s225",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s292",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s265",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s216",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s572",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s157",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s248",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s434",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s336",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s419",
+    "courseId": "CS148",
+    "classId": "CL098",
+    "status": "approved"
+  },
+  {
+    "studentId": "s263",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s283",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s425",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s540",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s530",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s201",
+    "courseId": "CS149",
+    "classId": "CL099",
+    "status": "pending"
+  },
+  {
+    "studentId": "s481",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s570",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s209",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s188",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s498",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s571",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s303",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s272",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s261",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s472",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s162",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s366",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s575",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s619",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s137",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s480",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s243",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s168",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s520",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  },
+  {
+    "studentId": "s390",
+    "courseId": "CS149",
+    "classId": "CL100",
+    "status": "approved"
+  }
+]

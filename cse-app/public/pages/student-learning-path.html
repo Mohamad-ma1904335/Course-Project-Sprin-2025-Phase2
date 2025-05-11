@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Learning Path</title>
+  <link rel="stylesheet" href="/styles/student-dashboard.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      <img src="/assets/logo.png" alt="Logo" class="logo-img">
+    </div>    
+    <div class="user-info">
+      <span id="welcomeUser">Learning Path</span>
+      <button onclick="logout()">Logout</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <ul>
+        <li><a href="/pages/student-dashboard.html">Dashboard</a></li>
+        <li><a href="#">Learning Path</a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <h2>Completed Courses</h2>
+      <div id="completedList" class="course-grid"></div>
+
+      <h2>In Progress</h2>
+      <div id="inProgressList" class="course-grid"></div>
+
+      <h2>Pending Approval</h2>
+      <div id="pendingList" class="course-grid"></div>
+    </main>
+  </div>
+
+  <script src="/scripts/student-learning-path.js"></script>
+</body>
+</html>

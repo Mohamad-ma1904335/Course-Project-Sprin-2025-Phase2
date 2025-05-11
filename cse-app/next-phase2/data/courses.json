@@ -1,0 +1,418 @@
+[
+  {
+    "id": "CS100",
+    "name": "Intro to Programming",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS101",
+    "name": "Cloud Computing",
+    "category": "Networks",
+    "prerequisites": [
+      "CS100"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS102",
+    "name": "Mobile App Development",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS103",
+    "name": "Cybersecurity Fundamentals",
+    "category": "Systems",
+    "prerequisites": [
+      "CS101",
+      "CS100"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS104",
+    "name": "Deep Learning",
+    "category": "Programming",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS105",
+    "name": "Data Analytics",
+    "category": "Databases",
+    "prerequisites": [
+      "CS101"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS106",
+    "name": "Computer Architecture",
+    "category": "Security",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS107",
+    "name": "Computer Vision",
+    "category": "Systems",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS108",
+    "name": "Ethical Hacking",
+    "category": "Data Science",
+    "prerequisites": [
+      "CS102",
+      "CS105"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS109",
+    "name": "Artificial Intelligence",
+    "category": "Programming",
+    "prerequisites": [
+      "CS108"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS110",
+    "name": "Machine Learning",
+    "category": "Data Science",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS111",
+    "name": "Network Security",
+    "category": "Data Science",
+    "prerequisites": [
+      "CS108",
+      "CS110"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS112",
+    "name": "Statistical Learning",
+    "category": "Systems",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS113",
+    "name": "Speech Recognition",
+    "category": "Security",
+    "prerequisites": [
+      "CS100",
+      "CS104"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS114",
+    "name": "Information Retrieval",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS115",
+    "name": "Big Data Technologies",
+    "category": "Programming",
+    "prerequisites": [
+      "CS100",
+      "CS108"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS116",
+    "name": "AR/VR Development",
+    "category": "Systems",
+    "prerequisites": [
+      "CS103"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS117",
+    "name": "Business Intelligence",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS118",
+    "name": "UI/UX Principles",
+    "category": "Security",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS119",
+    "name": "Web Development",
+    "category": "Networks",
+    "prerequisites": [
+      "CS118",
+      "CS111"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS120",
+    "name": "Virtualization Technologies",
+    "category": "Databases",
+    "prerequisites": [
+      "CS112",
+      "CS102"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS121",
+    "name": "Project Management",
+    "category": "Data Science",
+    "prerequisites": [
+      "CS111",
+      "CS105"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS122",
+    "name": "Parallel Programming",
+    "category": "Networks",
+    "prerequisites": [
+      "CS109",
+      "CS101"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS123",
+    "name": "Agile Methodologies",
+    "category": "Networks",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS124",
+    "name": "Data Governance",
+    "category": "Systems",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS125",
+    "name": "Technical Writing",
+    "category": "Data Science",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS126",
+    "name": "Advanced Python",
+    "category": "Programming",
+    "prerequisites": [
+      "CS101"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS127",
+    "name": "Database Systems",
+    "category": "Web",
+    "prerequisites": [
+      "CS120"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS128",
+    "name": "IoT Basics",
+    "category": "Databases",
+    "prerequisites": [
+      "CS122"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS129",
+    "name": "Embedded Systems",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS130",
+    "name": "Quantum Computing",
+    "category": "Systems",
+    "prerequisites": [
+      "CS129"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS131",
+    "name": "Game Development",
+    "category": "Web",
+    "prerequisites": [
+      "CS118",
+      "CS113"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS132",
+    "name": "Image Processing",
+    "category": "Security",
+    "prerequisites": [
+      "CS108",
+      "CS119"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS133",
+    "name": "Compiler Design",
+    "category": "Security",
+    "prerequisites": [
+      "CS125",
+      "CS128"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS134",
+    "name": "Software Engineering",
+    "category": "Networks",
+    "prerequisites": [
+      "CS123"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS135",
+    "name": "Serverless Computing",
+    "category": "AI",
+    "prerequisites": [
+      "CS115"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS136",
+    "name": "Blockchain Essentials",
+    "category": "Databases",
+    "prerequisites": [
+      "CS116"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS137",
+    "name": "Algorithms",
+    "category": "AI",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS138",
+    "name": "Distributed Systems",
+    "category": "Programming",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS139",
+    "name": "Computer Networks",
+    "category": "Web",
+    "prerequisites": [
+      "CS121",
+      "CS114"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS140",
+    "name": "Data Mining",
+    "category": "Data Science",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS141",
+    "name": "Smart Systems",
+    "category": "Programming",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS142",
+    "name": "DevOps Foundations",
+    "category": "Systems",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS143",
+    "name": "Operating Systems",
+    "category": "Data Science",
+    "prerequisites": [
+      "CS126",
+      "CS111"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS144",
+    "name": "Digital Logic Design",
+    "category": "Networks",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS145",
+    "name": "Edge Computing",
+    "category": "Security",
+    "prerequisites": [
+      "CS111"
+    ],
+    "status": "open"
+  },
+  {
+    "id": "CS146",
+    "name": "Natural Language Processing",
+    "category": "Networks",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS147",
+    "name": "Software Testing",
+    "category": "Web",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS148",
+    "name": "Data Structures",
+    "category": "Databases",
+    "prerequisites": [],
+    "status": "open"
+  },
+  {
+    "id": "CS149",
+    "name": "Programming Languages",
+    "category": "Networks",
+    "prerequisites": [],
+    "status": "open"
+  }
+]
