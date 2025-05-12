@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { Bar, Pie } from 'react-chartjs-2';
 import { Chart as ChartJS, CategoryScale, LinearScale, ArcElement, BarElement, Tooltip, Legend } from 'chart.js';
 
+
 ChartJS.register(CategoryScale, LinearScale, ArcElement, BarElement, Tooltip, Legend);
 
 function barChart(labels, data, label) {
@@ -30,6 +31,21 @@ function pieChart(labels, data) {
 }
 
 export default function StatisticsPage() {
+  
+// async
+//  const session = await getServerSession(authOptions);
+
+//  if (!session) {
+//    return <p>You must log in to view this page.</p>;
+//  }
+
+//  return (
+//    <div>
+//      <h1>📈 Protected Statistics</h1>
+//      {/* stats content here */}
+//    </div>
+//  );
+
   const [stats, setStats] = useState(null);
   const [loading, setLoading] = useState(true);
 
